@@ -1,0 +1,10 @@
+.extend{
+    padding: 0;
+    width: 100%;
+}
+.profile{
+    width: 165px;
+    height: 200px;
+    border: 1px solid gray;
+    display:block;
+}
